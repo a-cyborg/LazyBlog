@@ -1,0 +1,8 @@
+# IDE
+.idea
+.idea/*
+.LazyBlog.iml
+
+# OS
+.DS_Store
+
